@@ -1,8 +1,6 @@
 ---
-layout: default          # or "default" depending on your theme
-title: "Salo Lab — Nanoscale Lipid Flux Architecture"
-permalink: /          # makes sure this is the root URL
 ---
+
 # Our mission
 
 We study how lipid flux builds cellular architecture using in-cell structural biology at nanoscale resolution..
