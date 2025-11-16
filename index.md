@@ -1,9 +1,9 @@
 ---
 ---
 
-# salo-lab's Website
+# Our mission
 
-An engaging 1-3 sentence description of your lab.
+We study how lipid flux builds cellular architecture using in-cell structural biology at nanoscale resolution.
 
 {% include section.html %}
 
