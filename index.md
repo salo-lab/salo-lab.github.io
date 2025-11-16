@@ -1,5 +1,5 @@
 ---
-layout: home          # or "default" depending on your theme
+layout: default          # or "default" depending on your theme
 title: "Salo Lab — Nanoscale Lipid Flux Architecture"
 permalink: /          # makes sure this is the root URL
 ---
