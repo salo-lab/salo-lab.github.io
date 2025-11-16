@@ -3,7 +3,7 @@
 
 # Our mission
 
-We study how lipid flux builds cellular architecture using in-cell structural biology at nanoscale resolution.
+We study how lipid flux builds cellular architecture using in-cell structural biology at nanoscale resolution..
 
 {% include section.html %}
 
