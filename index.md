@@ -24,7 +24,7 @@ We study how organelles form, remodel, and coordinate metabolic decisions, using
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/GEMs.png"
   link="research"
   title="Our Research"
   text=text
