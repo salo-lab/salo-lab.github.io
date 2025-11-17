@@ -3,7 +3,7 @@
 
 # Our mission
 
-We investigate how lipid flux shapes cellular architecture, combining advanced cell biology with in-cell structural biology at nanoscale resolution.
+We investigate how lipid flux shapes cellular architecture, combining advanced cell biology with in-cell structural biology at nanoscale resolution...
 
 {% include section.html %}
 
