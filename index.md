@@ -24,7 +24,7 @@ We study how organelles form, remodel, and coordinate metabolic decisions, using
 
 {%
   include feature.html
-  image="images/GEMs_cropped-01.png"
+  image="images/GEMs.png"
   link="research"
   title="Our Research"
   text=text
@@ -45,7 +45,7 @@ Our work spans in-cell structural biology, membrane architecture, and nanoscale 
 
 {%
   include feature.html
-  image="images/ER_cropped-01.png"
+  image="images/ER.png"
   link="publications"
   title="Publications"
   flip=true
