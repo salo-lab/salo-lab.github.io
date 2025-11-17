@@ -28,7 +28,7 @@ We investigate how lipid flux and membrane architecture are organized, bridging 
   *PLOS Biology* **19**(1): e3000998 (2021). [10.1371/journal.pbio.3000998](https://doi.org/10.1371/journal.pbio.3000998)  
   Combined simulations and in-cell imaging to describe how seipin promotes initial lipid-droplet nucleation in the ER.
 
-- **Salo V.T.\***, Li S.\***, Vihinen H., Hölttä-Vuori M., Szkalisity A., Horvath P., *et al.*  
+- **Salo V.T.\***, ***Li S.\***, Vihinen H., Hölttä-Vuori M., Szkalisity A., Horvath P., *et al.*  
   *Seipin facilitates triglyceride flow to lipid droplets and counteracts droplet ripening via endoplasmic-reticulum contact.*  
   *Developmental Cell* **50**(4): 478–493.e9 (2019). [10.1016/j.devcel.2019.05.016](https://doi.org/10.1016/j.devcel.2019.05.016)  
   Demonstrated that seipin promotes neutral-lipid transfer within the ER to support lipid-droplet growth.
@@ -51,17 +51,49 @@ We investigate how lipid flux and membrane architecture are organized, bridging 
 6. Hölttä-Vuori M.\*, Salo V.T.\*, *et al.* *Human Molecular Genetics* (2013). [10.1093/hmg/dds518](https://doi.org/10.1093/hmg/dds518)
 
 ### Other peer-reviewed research articles
-7. Nähse V., ..., Salo V.T., *et al.* *Nature Communications* (2023). [10.1038/s41467-023-39641-9](https://doi.org/10.1038/s41467-023-39641-9)  
-8. Dumesnil C., ..., Salo V.T., *et al.* *Nature Communications* (2023). [10.1038/s41467-023-36375-6](https://doi.org/10.1038/s41467-023-36375-6)  
-9. Long M.,..., Salo V.T., *et al.* *EMBO Journal* (2022). [10.15252/embj.2022109390](https://doi.org/10.15252/embj.2022109390)  
-10. Santinho A., Salo V.T., *et al.* *Current Biology* (2020). [10.1016/j.cub.2020.05.027](https://doi.org/10.1016/j.cub.2020.05.027)  
-11. Li S., Prasanna X.\*, Salo V.T.\*, *et al.* *Nature Methods* (2020). [10.1038/s41592-019-0685-3](https://doi.org/10.1038/s41592-019-0685-3)  
-12. Pfisterer S.G., ..., Salo V.T., *et al.* *Nature Communications* (2017). [10.1038/ncomms14858](https://doi.org/10.1038/ncomms14858)
+7. Nähse V., Raiborg C., Tan K.W., Mørk S., Torgersen M.L., Wenzel E.M., Nager M., **Salo V.T.**, Johansen T., Ikonen E., Schink K.O., Stenmark H.  
+   *ATPase activity of DFCP1 controls selective autophagy.*  
+   *Nature Communications* **14**(1): 4051 (2023).  
+   [10.1038/s41467-023-39641-9](https://doi.org/10.1038/s41467-023-39641-9) :contentReference[oaicite:0]{index=0}  
+
+8. Dumesnil C., Vanharanta L., Prasanna X., Omrane M., Carpentier M., Bhapkar A., Enkavi G., **Salo V.T.V.**, Vattulainen I., Ikonen E., Thiam A.R.  
+   *Cholesterol esters form supercooled lipid droplets whose nucleation is facilitated by triacylglycerols.*  
+   *Nature Communications* **14**(1): 915 (2023).  
+   [10.1038/s41467-023-36375-6](https://doi.org/10.1038/s41467-023-36375-6) :contentReference[oaicite:1]{index=1}  
+
+9. Long M., Sanchez-Martinez A., Longo M., Suomi F., Stenlund H., Johansson A.I., Ehsan H., **Salo V.T.**, Montava-Garriga L., Naddafi S., Ikonen E., Ganley I.G., Whitworth A.J., McWilliams T.G.  
+   *DGAT1 activity synchronises with mitophagy to protect cells from metabolic rewiring by iron depletion.*  
+   *EMBO Journal* **41**(10): e109390 (2022).  
+   [10.15252/embj.2021109390](https://doi.org/10.15252/embj.2021109390) :contentReference[oaicite:2]{index=2}  
+
+10. Santinho A., **Salo V.T.**, Chorlay A., Li S., Zhou X., Omrane M., Ikonen E., Thiam A.R.  
+    *Membrane curvature catalyzes lipid droplet assembly.*  
+    *Current Biology* **30**(13): 2481–2494.e6 (2020).  
+    [10.1016/j.cub.2020.04.066](https://doi.org/10.1016/j.cub.2020.04.066) :contentReference[oaicite:3]{index=3}  
+
+11. Li S., Prasanna X., **Salo V.T.**, Vattulainen I., Ikonen E.  
+    *An efficient auxin-inducible degron system with low basal degradation in human cells.*  
+    *Nature Methods* **16**(9): 866–869 (2019).  
+    [10.1038/s41592-019-0512-x](https://doi.org/10.1038/s41592-019-0512-x) :contentReference[oaicite:4]{index=4}  
+
+12. Pfisterer S.G., Gateva G., Horvath P., Pirhonen J., **Salo V.T.**, Karhinen L., Varjosalo M., Ryhänen S.J., Lappalainen P., Ikonen E.  
+    *Role for formin-like 1–dependent acto-myosin assembly in lipid droplet dynamics and lipid storage.*  
+    *Nature Communications* **8**: 14858 (2017).  
+    [10.1038/ncomms14858](https://doi.org/10.1038/ncomms14858)
 
 ### Reviews and commentaries
-15. Dudka W., Salo V.T.\*, Mahamid J. *FEBS Letters* (2024). [10.1016/j.febslet.2024.04.005](https://doi.org/10.1016/j.febslet.2024.04.005)  
-16. Salo V.T.\*. *Frontiers in Cell and Developmental Biology* (2023). [10.3389/fcell.2023.1112954](https://doi.org/10.3389/fcell.2023.1112954)  
-17. Salo V.T., Hölttä-Vuori M., Ikonen E. *Contact* (2020). [10.1177/2515256420926735](https://doi.org/10.1177/2515256420926735)
+15. Dudka W., **Salo V.T.\***, Mahamid J.  
+    *Zooming into lipid droplet biology through the lens of electron microscopy.*  
+    *FEBS Letters* **598**(10): 1127–1142 (2024).  
+    [10.1002/1873-3468.14899](https://doi.org/10.1002/1873-3468.14899) :contentReference[oaicite:5]{index=5}  
 
-### Preprints
-20. Gemin O., ..., Salo V.T., *et al.* *bioRxiv* (2024). [10.1101/2024.01.18.576170](https://doi.org/10.1101/2024.01.18.576170)
+16. Salo V.T.\*.  
+    *Seipin: still a mysterious protein?*  
+    *Frontiers in Cell and Developmental Biology* **11**: 1112954 (2023).  
+    [10.3389/fcell.2023.1112954](https://doi.org/10.3389/fcell.2023.1112954)
+
+17. Salo V.T., Hölttä-Vuori M., Ikonen E.  
+    *Seipin-mediated contacts as gatekeepers of lipid flux at the endoplasmic reticulum–lipid droplet nexus.*  
+    *Contact* **3**: 1–16 (2020).  
+    [10.1177/2515256420926735](https://doi.org/10.1177/2515256420926735)
+
