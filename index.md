@@ -45,7 +45,7 @@ Our work spans in-cell structural biology, membrane architecture, and nanoscale 
 
 {%
   include feature.html
-  image="images/ER-cropped_cropped-01.png"
+  image="images/ER_cropped-01.png"
   link="publications"
   title="Publications"
   flip=true
