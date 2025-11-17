@@ -79,3 +79,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
+
+{% include section.html %}
+
+## Latest from the blog
+
+{%
+  include list.html
+  data="posts"
+  component="post-excerpt"
+  limit=2
+%}
