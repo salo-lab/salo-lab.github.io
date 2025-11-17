@@ -45,7 +45,7 @@ Our work spans in-cell structural biology, membrane architecture, and nanoscale 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/ER.png"
   link="publications"
   title="Publications"
   flip=true
@@ -68,7 +68,7 @@ The Salo Lab launches in 2026 at Karolinska Institutet and the University of Hel
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Combined-Thing-01.png"
   link="team"
   title="Our Team"
   text=text
