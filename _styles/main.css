@@ -4,4 +4,17 @@ main {
   flex-grow: 1;
 }
 
+/* -------------------------------------- */
+/* Circular image crop for highlight cards */
+/* -------------------------------------- */
+.circle-crop {
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
 /*# sourceMappingURL=main.css.map */
