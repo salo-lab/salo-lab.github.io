@@ -3,15 +3,14 @@
 
 # Our mission
 
-We study how lipid flux builds cellular architecture using in-cell structural biology at nanoscale resolution..
+We investigate how lipid flux shapes cellular architecture, combining advanced cell biology with in-cell structural biology at nanoscale resolution.
 
 {% include section.html %}
 
 ## Highlights
 
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We study how organelles form, remodel, and coordinate metabolic decisions, using cryo-CLEM, cryo-ET, and live-cell imaging approaches.
 
 {%
   include button.html
@@ -21,7 +20,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   flip=true
   style="bare"
 %}
-
 {% endcapture %}
 
 {%
@@ -33,8 +31,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 %}
 
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our work spans in-cell structural biology, membrane architecture, and nanoscale regulation of lipid flux in health and disease.
 
 {%
   include button.html
@@ -44,7 +41,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   flip=true
   style="bare"
 %}
-
 {% endcapture %}
 
 {%
@@ -58,8 +54,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 %}
 
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The Salo Lab launches in 2026 at Karolinska Institutet and the University of Helsinki. We are currently recruiting—come build the lab with us.
 
 {%
   include button.html
@@ -69,7 +64,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   flip=true
   style="bare"
 %}
-
 {% endcapture %}
 
 {%
