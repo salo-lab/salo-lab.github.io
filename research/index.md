@@ -25,6 +25,8 @@ Although lipid imbalances contribute to major human diseases, including fatty li
 obesity, cardiovascular disease, and neurodegeneration, the **molecular logic 
 organizing lipid flux** inside cells is still largely unresolved.
 
+
+
 ## In-cell structural biology of membrane remodeling  
 We combine advanced cell biology with cutting-edge cryo-correlative light and
 electron tomography (cryo-CLEM ET) to visualize lipid-driven remodeling events
