@@ -12,11 +12,18 @@ main {
 /* -------------------------------------- */
 
 .circle-crop {
-  width: 220px;        // adjust as needed
+  width: 220px;
   height: 220px;
   border-radius: 50%;
   object-fit: cover;
   display: block;
   margin: 0 auto;
   overflow: hidden;
+}
+
+/* Override theme forcing width:100% */
+.feature-image img.circle-crop {
+  width: 220px !important;
+  height: 220px !important;
+  object-fit: cover !important;
 }
