@@ -1,10 +1,8 @@
 ---
 name: Veijo Salo
-image: images/veijo.jpg
+image: images/Veijo.jpg
 role: principal-investigator
 affiliation: Karolinska Institutet & University of Helsinki
-aliases:
-  - Veijo T. Salo
 links:
   home-page: https://salo-lab.github.io
   orcid: https://orcid.org/0000-0002-6991-2142
