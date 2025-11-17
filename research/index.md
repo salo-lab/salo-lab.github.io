@@ -10,15 +10,13 @@ nav:
 ## Lipid flux and cellular self-organization  
 Lipids are fundamental building blocks of cellular life. They serve not only as energy
 stores, but as dynamic regulators of membrane identity, organelle biogenesis,
-signaling, and metabolic adaptation. Yet many core principles remain unknown:  
-
-{% include figure.html
-  image="images/lipid-droplets.png"
-  caption="Artwork by David S. Goodsell, RCSB Protein Data Bank (CC BY 4.0)."
-  float="right"
-  width="350px"
-%}
-
+signaling, and metabolic adaptation. Yet many core principles remain unknown: 
+<div style="float:right; width:280px; margin:0 0 1.2rem 1.2rem;">
+  <img src="/images/lipid-droplets.png" style="width:100%; border-radius:4px;">
+  <p style="font-size:0.8rem; color:#555; font-style:italic; margin-top:4px;">
+    Artwork by David S. Goodsell, RCSB Protein Data Bank (CC BY 4.0).
+  </p>
+</div>
 How do cells decide when to store lipids versus mobilize or secrete them?  
 How do membranes remodel to generate new organelles?  
 How do lipid environments encode information that guides protein activity?
