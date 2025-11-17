@@ -4,8 +4,7 @@ image: images/Veijo.jpeg
 role: principal-investigator
 affiliation: Karolinska Institutet & University of Helsinki
 links:
-  home-page: https://salo-lab.github.io
-  orcid: https://orcid.org/0000-0002-6991-2142
+  orcid: 0000-0002-6991-2142
 ---
 
 Veijo completed his MD at the University of Helsinki, where he became fascinated by
