@@ -17,4 +17,11 @@ main {
   overflow: hidden;
 }
 
+/* Override theme forcing width:100% */
+.feature-image img.circle-crop {
+  width: 220px !important;
+  height: 220px !important;
+  object-fit: cover !important;
+}
+
 /*# sourceMappingURL=main.css.map */
