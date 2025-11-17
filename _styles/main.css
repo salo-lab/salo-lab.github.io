@@ -24,4 +24,9 @@ main {
   object-fit: cover !important;
 }
 
+.feature {
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
 /*# sourceMappingURL=main.css.map */
