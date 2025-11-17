@@ -1,6 +1,6 @@
 ---
 name: Veijo Salo
-image: images/Veijo.jpg
+image: images/Veijo.jpeg
 role: principal-investigator
 affiliation: Karolinska Institutet & University of Helsinki
 links:
