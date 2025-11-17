@@ -8,12 +8,12 @@ main {
 }
 
 /* -------------------------------------- */
-/* Circular image crop for highlight cards */
+/* Larger circular crops for highlight cards */
 /* -------------------------------------- */
 
 .circle-crop {
-  width: 220px;
-  height: 220px;
+  width: 260px;         /* bigger circle */
+  height: 260px;
   border-radius: 50%;
   object-fit: cover;
   display: block;
@@ -23,11 +23,20 @@ main {
 
 /* Override theme forcing width:100% */
 .feature-image img.circle-crop {
-  width: 220px !important;
-  height: 220px !important;
+  width: 260px !important;
+  height: 260px !important;
   object-fit: cover !important;
 }
 
+/* Remove ALL card/background around images */
+.feature-image {
+  background: transparent !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  margin-bottom: 1rem;
+}
+
+/* Remove outer card background (just in case) */
 .feature {
   background: transparent !important;
   box-shadow: none !important;
