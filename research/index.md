@@ -15,7 +15,7 @@ stores,
   <p style="font-size:0.8rem; color:#555; font-style:italic; margin-top:4px;">
     Artwork by David S. Goodsell, RCSB Protein Data Bank (CC BY 4.0).
   </p>
-</div> 
+</div>
 but as dynamic regulators of membrane identity, organelle biogenesis,
 signaling, and metabolic adaptation. Yet many core principles remain unknown: 
 How do cells decide when to store lipids versus mobilize or secrete them?  
