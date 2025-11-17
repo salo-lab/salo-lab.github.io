@@ -68,7 +68,7 @@ The Salo Lab launches in 2026 at Karolinska Institutet and the University of Hel
 
 {%
   include feature.html
-  image="images/CombinedThing-01.png"
+  image="images/combined-01.png" class="circle-crop"
   link="team"
   title="Our Team"
   text=text
