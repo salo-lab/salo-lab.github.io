@@ -9,7 +9,7 @@ nav:
 
 ## Lipid flux and cellular self-organization  
 Lipids are fundamental building blocks of cellular life. They serve not only as energy
-stores, 
+stores,
 <div style="float:right; width:280px; margin:0 0 1.2rem 1.2rem;">
   <img src="/images/lipid-droplets.png" style="width:100%; border-radius:4px;">
   <p style="font-size:0.8rem; color:#555; font-style:italic; margin-top:4px;">
