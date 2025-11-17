@@ -8,12 +8,11 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@salo-lab.com
+  email: veijo.salot@helsinki.fi
   orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  google-scholar: user=iB17ucQAAAAJ&hl=en
   github: salo-lab
   twitter: salo-lab
-  youtube: salo-lab
 
 ### jekyll settings
 
