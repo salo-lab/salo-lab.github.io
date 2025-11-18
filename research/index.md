@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-diagram-project" %} Research
 
 ## Lipid flux and cellular self-organization
-<div style="float:right; width:240px; margin:0 0 1.2rem 1.2rem;">
+<div style="float:right; width:200px; margin:0 0 1.2rem 1.2rem;">
   <img src="/images/lipid-droplets.png" style="width:100%; border-radius:4px;">
   <p style="font-size:0.8rem; color:#555; font-style:italic; margin-top:4px;">
     Artwork by David S. Goodsell, RCSB Protein Data Bank (CC BY 4.0).
