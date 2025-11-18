@@ -17,6 +17,7 @@ nav:
 Lipids are fundamental building blocks of cellular life. They serve not only as energy
 stores, but as dynamic regulators of membrane identity, organelle biogenesis,
 signaling, and metabolic adaptation. Yet many core principles remain unknown.
+
 How do cells decide when to store lipids versus mobilize or secrete them?   
 How do membranes remodel to generate new organelles?  
 How do lipid environments encode information that guides protein activity?
