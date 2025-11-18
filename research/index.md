@@ -31,10 +31,10 @@ organizing lipid flux** inside cells is still largely unresolved.
 ## In-cell structural biology of membrane remodeling  
 We combine advanced cell biology with cutting-edge cryo-correlative light and
 electron tomography (cryo-CLEM ET) to visualize lipid-driven remodeling events
-directly inside intact cells. Our recent work using genetically encoded
-nanoparticles (GEMs) enables nanometer-precision localization of proteins in
+directly inside intact cells. In-cell cryo-ET enables pristine preservation of membrane architecture and can allow for near-atomistic resolution of macromolecular machinery in the native cellular environment. Our recent work using genetically encoded
+nanoparticles (GEMs) now enables nanometer-precision localization of proteins in
 cryo-ET, opening the door to capturing rare and transient membrane intermediates
-with exceptional clarity.
+with exceptional clarity. In parallel, recent advances in cryo-lift-out methodology now enable larger samples, such as high-pressure-frozen tissues, to be examined with cryo-ET. 
 
 By integrating in-cell cryo-ET and advanced cell biological tools, our goal is to illuminate how organelles emerge,
 transform, and coordinate metabolic decisions across scales—from single lipids to
