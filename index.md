@@ -97,7 +97,7 @@ We gratefully acknowledge all past and present funding agencies and institutiona
   }
 
   .funding-logos img {
-    height: 90px;        /* all logos same visual height */
+    height: 70px;        /* all logos same visual height */
     object-fit: contain; /* good for transparent PNG/SVG */
   }
 </style>
