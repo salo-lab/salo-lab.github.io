@@ -9,10 +9,9 @@ proofer: false
 # site social media and other links
 links:
   email: veijo.salot@helsinki.fi
-  orcid: 0000-0001-8713-9213
+  orcid: 0000-0002-6991-2142
   google-scholar: iB17ucQAAAAJ
-  github: salo-lab
-  twitter: salo-lab
+  twitter: @VeijoS
 
 ### jekyll settings
 
