@@ -31,7 +31,7 @@ We investigate how lipid flux and membrane architecture are organized, bridging 
   [10.1371/journal.pbio.3000998](https://doi.org/10.1371/journal.pbio.3000998)  
   Combined simulations and in-cell imaging to describe how seipin promotes initial lipid droplet nucleation in the ER.
 
-  - Santinho A., **Salo V.T.**, Chorlay A., Li S., Zhou X., Omrane M., Ikonen E., Thiam A.R.  
+- Santinho A., **Salo V.T.**, Chorlay A., Li S., Zhou X., Omrane M., Ikonen E., Thiam A.R.  
   *Membrane curvature catalyzes lipid droplet assembly.*  
   *Current Biology* **30**(13): 2481–2494.e6 (2020).  
   [10.1016/j.cub.2020.04.066](https://doi.org/10.1016/j.cub.2020.04.066)  
