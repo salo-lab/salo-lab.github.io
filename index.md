@@ -107,7 +107,8 @@ We gratefully acknowledge all past and present funding agencies and institutiona
   <!-- Just copy-paste more <img> lines to add more funders. -->
   <img src="/images/logos/VR.png" alt="Swedish Research Council (VR)">
   <img src="/images/logos/SSMF.png" alt="SSMF">
-  <img src="/images/logos/AOF-01.png" alt="Academy of Finland">
+  <img src="/images/logos/AOF-01.png" alt="Research Council of Finland">
   <img src="/images/logos/KI.svg" alt="Karolinska Institutet">
   <img src="/images/logos/UH.png" alt="University of Helsinki">
+  <img src="/images/logos/HILIFE.jpeg" alt="Hilife">
 </div>
