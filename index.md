@@ -3,7 +3,7 @@
 
 # Our mission
 
-To unravel how lipid flux shapes cellular architecture in health and disease. We do this via advanced cell and in-cell structural biology at nanoscale resolution...
+To unravel how lipid flux shapes cellular architecture in health and disease. We do this via advanced cell and in-cell structural biology at nanoscale resolution..
 
 {% include section.html %}
 
@@ -97,7 +97,7 @@ We gratefully acknowledge all past and present funding agencies and institutiona
   }
 
   .funding-logos img {
-    height: 80px;        /* all logos same visual height */
+    height: 90px;        /* all logos same visual height */
     object-fit: contain; /* good for transparent PNG/SVG */
   }
 </style>
@@ -109,6 +109,6 @@ We gratefully acknowledge all past and present funding agencies and institutiona
   <img src="logos/VR.png" alt="Swedish Research Council (VR)">
   <img src="logos/AOF-01.png" alt="Research Council of Finland">
   <img src="logos/KI.svg" alt="Karolinska Institutet">
-  <img src="logos/UH.png" alt="University of Helsinki">
+  <img src="logos/UH2-01.png" alt="University of Helsinki">
   <img src="logos/HILIFE.jpeg" alt="Hilife">
 </div>
