@@ -98,19 +98,20 @@ We gratefully acknowledge all past and present funding agencies and institutiona
   }
 
   .funding-logo {
-    height: 80px;                 /* equal height “box” */
+    height: 90px;                 /* taller box solves clipping */
     display: flex;
     align-items: center;
     justify-content: center;
+    overflow: hidden;             /* ensures nothing spills out visually */
   }
 
   .funding-logo img {
-    max-height: 80px;             /* keeps all logos similar height */
-    max-width: 170px;             /* keeps very wide ones (VR, UH) in check */
+    max-width: 150px;             /* controls wide logos like KI & UH */
+    width: 100%;                  
+    height: auto;                 /* let height shrink to avoid overflow */
     object-fit: contain;
   }
 
-  /* 2 logos per row on mobile */
   @media (max-width: 600px) {
     .funding-logos {
       grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -119,10 +120,11 @@ We gratefully acknowledge all past and present funding agencies and institutiona
       height: 70px;
     }
     .funding-logo img {
-      max-height: 70px;
+      max-width: 140px;
     }
   }
 </style>
+
 
 <div class="funding-logos">
   <div class="funding-logo"><img src="logos/SSMF2.svg" alt="SSMF"></div>
