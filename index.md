@@ -97,7 +97,7 @@ We gratefully acknowledge all past and present funding agencies and institutiona
   }
 
   .funding-logos img {
-    height: 48px;        /* all logos same visual height */
+    height: 60px;        /* all logos same visual height */
     object-fit: contain; /* good for transparent PNG/SVG */
   }
 </style>
@@ -106,7 +106,7 @@ We gratefully acknowledge all past and present funding agencies and institutiona
   <!-- Replace these src paths with your actual logo files in /images/logos/ -->
   <!-- Just copy-paste more <img> lines to add more funders. -->
   <img src="logos/VR.png" alt="Swedish Research Council (VR)">
-  <img src="logos/SSMF.png" alt="SSMF">
+  <img src="logos/ssfm.png" alt="SSMF">
   <img src="logos/AOF-01.png" alt="Research Council of Finland">
   <img src="logos/KI.svg" alt="Karolinska Institutet">
   <img src="logos/UH.png" alt="University of Helsinki">
