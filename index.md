@@ -97,26 +97,24 @@ We gratefully acknowledge all past and present funding agencies and institutiona
     margin-top: 1rem;
   }
 
-  /* Each logo sits inside a fixed-size box */
   .funding-logo {
-    width: 170px;      /* equal width for all logos */
-    height: 80px;      /* equal height for all logos */
+    width: calc(33.333% - 2rem);  /* 3 logos per row */
+    max-width: 170px;             /* ensures equal box size */
+    height: 80px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
 
-  /* Images scale to fit the box */
   .funding-logo img {
     max-width: 100%;
     max-height: 100%;
     object-fit: contain;
   }
 
-  /* Mobile layout */
   @media (max-width: 600px) {
     .funding-logo {
-      width: 140px;
+      width: calc(50% - 1rem);   /* 2 per row on mobile */
       height: 70px;
     }
   }
