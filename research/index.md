@@ -91,11 +91,6 @@ interaction network remain incompletely understood. We are exploring what factor
 - What conformational states correspond to active versus inactive LD assembly?  
 - How are regulatory cues integrated at nanoscale ER subdomains?
 
-{% include figure.html
-  image="images/research-seipin-regulators.jpg"
-  caption="Placeholder: model of seipin and associated regulators at a lipid-droplet assembly site."
-%}
-
 {% include section.html %}
 
 ### 4. Neutral-lipid homeostasis and ferroptosis  
