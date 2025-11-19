@@ -3,7 +3,7 @@
 
 # Our mission
 
-To unravel how lipid flux shapes cellular architecture in health and disease. We do this via advanced cell and in-cell structural biology at nanoscale resolution.
+To unravel how lipid flux shapes cellular architecture in health and disease. We do this via advanced cell and in-cell structural biology at nanoscale resolution..
 
 {% include section.html %}
 
