@@ -1,4 +1,4 @@
-<img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/6d118f1a-f564-4e63-bb79-9f72ab41499b" />---
+---
 title: Research
 nav:
   order: 2
