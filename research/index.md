@@ -76,7 +76,7 @@ By integrating these approaches, we aim to connect membrane organization, protei
 - What molecular features define “lipid hotspots” that drive flux?
 
 {% include figure.html
-  image="images/GEM_workflow-01.png"
+  image="images/GEM_workflow-02-01.png"
   caption="Workflow for GEM-based labelling of proteins-of-interest. Adapted from Fung et al., Nature Methods 2023. © Springer Nature."
 %}
 
