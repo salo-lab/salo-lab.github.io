@@ -90,25 +90,42 @@ We gratefully acknowledge all past and present funding agencies and institutiona
   .funding-logos {
     display: flex;
     flex-wrap: wrap;
-    gap: 1.5rem;
+    gap: 2rem;
     align-items: center;
-    justify-content: flex-start;
-    margin-top: 0.75rem;
+    justify-content: center;
+    margin-top: 1rem;
   }
 
-  .funding-logos img {
-    height: 70px;        /* all logos same visual height */
-    object-fit: contain; /* good for transparent PNG/SVG */
+  /* Each logo sits inside a fixed-size box */
+  .funding-logo {
+    width: 170px;      /* equal width for all logos */
+    height: 80px;      /* equal height for all logos */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  /* Images scale to fit the box */
+  .funding-logo img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+  }
+
+  /* Mobile layout */
+  @media (max-width: 600px) {
+    .funding-logo {
+      width: 140px;
+      height: 70px;
+    }
   }
 </style>
 
 <div class="funding-logos">
-  <!-- Replace these src paths with your actual logo files in /images/logos/ -->
-  <!-- Just copy-paste more <img> lines to add more funders. -->
-  <img src="logos/SSMF2.svg" alt="SSMF">
-  <img src="logos/VR.png" alt="Swedish Research Council (VR)">
-  <img src="logos/AOF-01.png" alt="Research Council of Finland">
-  <img src="logos/KI.svg" alt="Karolinska Institutet">
-  <img src="logos/UH3-01.png" alt="University of Helsinki">
-  <img src="logos/HILIFE.jpeg" alt="Hilife">
+  <div class="funding-logo"><img src="logos/SSMF2.svg" alt="SSMF"></div>
+  <div class="funding-logo"><img src="logos/VR.png" alt="Swedish Research Council (VR)"></div>
+  <div class="funding-logo"><img src="logos/AOF-01.png" alt="Research Council of Finland"></div>
+  <div class="funding-logo"><img src="logos/KI.svg" alt="Karolinska Institutet"></div>
+  <div class="funding-logo"><img src="logos/UH3-01.png" alt="University of Helsinki"></div>
+  <div class="funding-logo"><img src="logos/HILIFE.jpeg" alt="HiLIFE"></div>
 </div>
