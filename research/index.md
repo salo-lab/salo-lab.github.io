@@ -1,4 +1,4 @@
----
+<img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/6d118f1a-f564-4e63-bb79-9f72ab41499b" />---
 title: Research
 nav:
   order: 2
@@ -49,8 +49,7 @@ whole-cell and tissue-level architecture.
 ### 1. Nanoscale architecture of LD and VLDL formation  
 Lipid droplets (LDs) and very-low-density lipoproteins (VLDLs) originate from the
 same ER membrane but drive opposing metabolic fates: lipid storage versus
-secretion. We are interested in how ER nanodomains bias lipid flux toward one
-pathway or the other.  
+secretion. Dysregulation in either pathway leads to disease: excessive storage of lipids in LDs drives fatty liver disease, while excess secretion via VLDLs promotes dyslipidaemia and atherosclerosis. We are interested in how ER nanodomains bias lipid flux toward one pathway or the other.  
 
 **Open questions include:**  
 - What architectural features define LD- versus VLDL-forming ER regions?  
@@ -58,8 +57,8 @@ pathway or the other.
 - How is substrate competition between LD and VLDL pathways balanced?
 
 {% include figure.html
-  image="images/research-ld-vldl.jpg"
-  caption="Placeholder: schematic of neutral-lipid flux between LD and VLDL formation in the ER."
+  image="images//LiverLipidDecision4png-01.png"
+  caption="How is the fate of neutral lipids decided in the ER?"
 %}
 
 {% include section.html %}
