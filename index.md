@@ -97,9 +97,10 @@ We gratefully acknowledge all past and present funding agencies and institutiona
     margin-top: 1rem;
   }
 
+  /* 3 logos per row on desktop */
   .funding-logo {
-    width: calc(33.333% - 2rem);  /* 3 logos per row */
-    max-width: 170px;             /* ensures equal box size */
+    width: calc(33.333% - 2rem); 
+    max-width: 170px;
     height: 80px;
     display: flex;
     align-items: center;
@@ -112,9 +113,10 @@ We gratefully acknowledge all past and present funding agencies and institutiona
     object-fit: contain;
   }
 
+  /* 2 logos per row on mobile */
   @media (max-width: 600px) {
     .funding-logo {
-      width: calc(50% - 1rem);   /* 2 per row on mobile */
+      width: calc(50% - 1rem);
       height: 70px;
     }
   }
