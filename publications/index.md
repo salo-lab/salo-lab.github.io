@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
 We investigate how lipid flux and membrane architecture are organized, bridging advanced cell biological and in-cell structural approaches across scales. 
 
