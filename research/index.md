@@ -104,7 +104,3 @@ ferroptotic damage.
 - Do LDs buffer, propagate, or prevent lipid peroxidation?  
 - How do lipid flux states shape cell fate during stress?
 
-{% include figure.html
-  image="images/research-ferroptosis.jpg"
-  caption="Placeholder: conceptual view of lipid peroxidation, LDs, and organelle damage during ferroptosis."
-%}
