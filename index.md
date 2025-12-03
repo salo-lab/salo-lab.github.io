@@ -3,7 +3,8 @@
 
 # Our mission
 
-To unravel how lipid flux shapes cellular architecture in health and disease. We do this via advanced cell and in-cell structural biology at nanoscale resolution...
+Our research group aims to uncover the molecular logic of lipid flux and organelle biogenesis in metabolic health and disease. We use state-of-the-art approaches in cell biology, imaging, and in-cell structural biology to reveal nanoscale membrane architectures in their native context.
+
 
 {% include section.html %}
 
