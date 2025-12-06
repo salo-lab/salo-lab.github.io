@@ -15,8 +15,8 @@ touch by email.
 {%
   include button.html
   type="email"
-  text="veijo.salo@helsinki.fi"
-  link="veijo.salo@helsinki.fi"
+  text="veijo.salo@ki.se"
+  link="veijo.salo@ki.se"
 %}
 
 {% include section.html %}
