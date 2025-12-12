@@ -19,8 +19,6 @@ Updates, announcements, and occasional notes from the Salo Lab.
    component="post-excerpt"
 %}
 
-{% include pagination.html %}
-
 {% comment %}
 Enable these later when you have more posts:
 
