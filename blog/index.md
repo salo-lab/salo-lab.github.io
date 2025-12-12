@@ -17,6 +17,8 @@ Updates, announcements, and occasional notes from the Salo Lab.
 {% include list.html
    data="posts"
    component="post-excerpt"
+   limit=999
+%}
 %}
 
 {% comment %}
