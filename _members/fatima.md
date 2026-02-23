@@ -1,6 +1,6 @@
 ---
 name: Fatima Kaneez
-image: images/Fatima2.jpeg
+image: images/Fatima.JPG
 role: postdoctoral-fellow
 affiliation: University of Helsinki
 links:
