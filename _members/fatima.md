@@ -2,7 +2,7 @@
 name: Fatima Kaneez
 image: images/Fatima3.png
 position: 2
-role: postdoctoral-fellow
+role: postdoc
 affiliation: University of Helsinki
 links:
   orcid: 0000-0003-2519-7754
