@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %} Team
 
-The Salo Lab is currently in its recruitment phase and will officially launch in
-2026 at Karolinska Institutet and the University of Helsinki. We are building an
+We are building an
 interdisciplinary team combining cell biology, cryo-electron tomography, advanced
 imaging, and structural approaches to understand how lipid flux and membrane
 dynamics shape organelle architecture.
