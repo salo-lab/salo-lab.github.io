@@ -1,6 +1,7 @@
 ---
 id: join-us
 name: You?
+position: 100
 image: ../images/member-placeholder.svg
 role: open-position
 affiliation: Open positions
