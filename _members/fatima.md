@@ -1,7 +1,7 @@
 ---
 name: Kaneez Fatima
 image: images/Fatima.JPG
-position: 2
+position: 3
 role: postdoc
 affiliation: University of Helsinki
 links:
