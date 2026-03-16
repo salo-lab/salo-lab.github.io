@@ -1,7 +1,7 @@
 ---
 name: Benjamin  Heller Sahlgren
-image: images/Benjamin.JPG
-position: 3
+image: images/Benjamin.png
+position: 2
 role: Research Specialist
 affiliation: Karolinska Institutet
 links:
