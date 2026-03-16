@@ -2,7 +2,7 @@
 name: Benjamin  Heller Sahlgren
 image: images/Benjamin.JPG
 position: 3
-role: postdoc
+role: Research Specialist
 affiliation: Karolinska Institutet
 links:
   orcid: 0009-0000-4897-569X
