@@ -19,7 +19,7 @@ Updates, announcements, and occasional notes from the Salo Lab.
    component="post-excerpt"
    limit=999
 %}
-%}
+
 
 {% comment %}
 Enable these later when you have more posts:
