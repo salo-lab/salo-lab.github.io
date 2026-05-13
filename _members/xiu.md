@@ -1,6 +1,6 @@
 ---
 name: Xiu Tian
-image: images/xiu.jpg
+image: images/xiu.png
 position: 2
 role: Postdoctoral researcher
 affiliation: Karolinska Institutet
