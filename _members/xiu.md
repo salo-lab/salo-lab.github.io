@@ -2,7 +2,7 @@
 name: Xiu Tian
 image: images/xiu.png
 position: 2
-role: Postdoctoral researcher
+role: postdoc
 affiliation: University of Helsinki
 links:
   orcid: 
