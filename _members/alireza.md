@@ -1,0 +1,13 @@
+---
+name: Alireza Jorkesh
+image: images/alireza.png
+position: 2
+role: Research assistant
+affiliation: Karolinska Institutet
+links:
+  orcid: 0009-0006-6595-5125
+---
+
+Alireza obtained his Master’s degree in Pharmaceutical Biotechnology from the University of Padua, where his thesis focused on developing a screening platform to identify Furin inhibitors.
+He then held two research fellow positions, working first on autophagy and the role of Beclin 1 in schwannoma, and later on DNA damage responses and transcription–replication conflicts.
+Outside the lab, Alireza enjoys concerts, cinema and cooking with friends.
