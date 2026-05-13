@@ -3,7 +3,7 @@ name: Xiu Tian
 image: images/xiu.png
 position: 2
 role: Postdoctoral researcher
-affiliation: Karolinska Institutet
+affiliation: University of Helsinki
 links:
   orcid: 
 ---
