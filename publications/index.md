@@ -13,6 +13,12 @@ We investigate how lipid flux and membrane architecture are organized, bridging 
 
 ## Highlighted papers
 
+- **Salo V.T.\***, **Klug Y.A.\***, **Sapia J.\***, *et al.*  
+  *Regulated conformational transitions in seipin define a functional ER-lipid droplet interface.*  
+  *bioRxiv* (2026).  
+  [10.64898/2026.06.22.733769](https://doi.org/10.64898/2026.06.22.733769)  
+  Combined in-cell cryo-ET, structural analysis, modelling and cell biology to define a regulated seipin conformational transition at the ER–lipid-droplet interface.
+
 - **Fung H.K.H.\***, **Hayashi Y.\***, **Salo V.T.\***, Babenko A., Zagoriy I., Brunner A., Ellenberg J., Müller C.W., Cuylen-Haering S., Mahamid J.  
   *Genetically encoded multimeric tags for subcellular protein localisation in cryo-EM.*  
   *Nature Methods* **20**, 1900–1908 (2023).  
@@ -47,11 +53,23 @@ We investigate how lipid flux and membrane architecture are organized, bridging 
   *Seipin regulates ER–lipid-droplet contacts and cargo delivery.*  
   *EMBO Journal* **35**(24): 2699–2716 (2016).  
   [10.15252/embj.201695170](https://doi.org/10.15252/embj.201695170)  
-  Early work that revealed how seipin may organizes ER–lipid-droplet contact sites to control ER-LD cargo flux.
+  Early work that revealed how seipin helps organize ER–lipid-droplet contact sites to control ER–LD cargo flux.
 
 {% include section.html %}
 
 ## Full publication list
+
+### Pre-prints
+
+- **Salo V.T.\***, Klug Y.A.\*, Sapia J.\*, *et al.*  
+  *Regulated conformational transitions in seipin define a functional ER-lipid droplet interface.*  
+  *bioRxiv* (2026).  
+  [10.64898/2026.06.22.733769](https://doi.org/10.64898/2026.06.22.733769)
+
+- Sapia J., **Salo V.T.**, Tasnim A.T., Campomanes P., Sui X., Vanni S.  
+  *Substrate-dependent oligomerization modulates DGAT1 activity and subcellular localization.*  
+  *bioRxiv* (2026).  
+  [10.64898/2026.03.31.715571](https://doi.org/10.64898/2026.03.31.715571)
 
 ### First-author peer-reviewed research articles
 
@@ -80,6 +98,11 @@ We investigate how lipid flux and membrane architecture are organized, bridging 
   [10.1093/hmg/dds518](https://doi.org/10.1093/hmg/dds518)
 
 ### Other peer-reviewed research articles
+
+- Gemin O., Armijo V., Lecomte L., *et al.*, **Salo V.T.**, *et al.*  
+  *EasyGrid: a versatile platform for automated cryo-EM sample preparation and quality control.*  
+  *Nature Methods* (2026).  
+  [10.1038/s41592-026-03127-5](https://doi.org/10.1038/s41592-026-03127-5)
 
 - Nähse V., Raiborg C., Tan K.W., Mørk S., Torgersen M.L., Wenzel E.M., Nager M., **Salo V.T.**, Johansen T., Ikonen E., Schink K.O., Stenmark H.  
   *ATPase activity of DFCP1 controls selective autophagy.*  
@@ -123,7 +146,12 @@ We investigate how lipid flux and membrane architecture are organized, bridging 
   *Frontiers in Cell and Developmental Biology* **11**: 1112954 (2023).  
   [10.3389/fcell.2023.1112954](https://doi.org/10.3389/fcell.2023.1112954)
 
-- Salo V.T., Hölttä-Vuori M., Ikonen E.  
+- **Salo V.T.**, Hölttä-Vuori M., Ikonen E.  
   *Seipin-mediated contacts as gatekeepers of lipid flux at the endoplasmic reticulum–lipid droplet nexus.*  
   *Contact* **3**: 1–16 (2020).  
-  [10.1177/2515256420926735](https://doi.org/10.1177/2515256420926735)
+  [10.1177/2515256420945820](https://doi.org/10.1177/2515256420945820)
+
+- **Salo V.T.**, Ikonen E.  
+  *Moving out but keeping in touch: contacts between endoplasmic reticulum and lipid droplets.*  
+  *Current Opinion in Cell Biology* **57**: 64–70 (2019).  
+  [10.1016/j.ceb.2018.11.002](https://doi.org/10.1016/j.ceb.2018.11.002)
