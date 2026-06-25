@@ -13,8 +13,8 @@ We investigate how lipid flux and membrane architecture are organized, bridging 
 
 ## Highlighted papers
 
-- **Salo V.T.\***, **Klug Y.A.\***, **Sapia J.\***, *et al.*  
-  *Regulated conformational transitions in seipin define a functional ER-lipid droplet interface.*  
+- **Salo V.T.\***, **Klug Y.A.\***, **Sapia J.\***, Deme J.C., Tocci J.M., Babenko A., Jacob R.S., Eikmeier N., Zagoriy E., Goetz S.K., Campomanes P., Banterle N., Lea S.M., Vanni S., Carvalho P., Mahamid J.  
+  *Regulated conformational transitions in seipin define a functional ER–lipid droplet interface.*  
   *bioRxiv* (2026).  
   [10.64898/2026.06.22.733769](https://doi.org/10.64898/2026.06.22.733769)  
   Combined in-cell cryo-ET, structural analysis, modelling and cell biology to define a regulated seipin conformational transition at the ER–lipid-droplet interface.
@@ -61,10 +61,10 @@ We investigate how lipid flux and membrane architecture are organized, bridging 
 
 ### Pre-prints
 
-- **Salo V.T.\***, Klug Y.A.\*, Sapia J.\*, *et al.*  
-  *Regulated conformational transitions in seipin define a functional ER-lipid droplet interface.*  
+- **Salo V.T.\***, **Klug Y.A.\***, **Sapia J.\***, Deme J.C., Tocci J.M., Babenko A., Jacob R.S., Eikmeier N., Zagoriy E., Goetz S.K., Campomanes P., Banterle N., Lea S.M., Vanni S., Carvalho P., Mahamid J.  
+  *Regulated conformational transitions in seipin define a functional ER–lipid droplet interface.*  
   *bioRxiv* (2026).  
-  [10.64898/2026.06.22.733769](https://doi.org/10.64898/2026.06.22.733769)
+  [10.64898/2026.06.22.733769](https://doi.org/10.64898/2026.06.22.733769)  
 
 - Sapia J., **Salo V.T.**, Tasnim A.T., Campomanes P., Sui X., Vanni S.  
   *Substrate-dependent oligomerization modulates DGAT1 activity and subcellular localization.*  
